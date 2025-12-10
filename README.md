@@ -8,4 +8,4 @@ The project task was
     - Line map of comparing asthma, COPD and Healthy Lungs
 
 For clear information please check this poster
-[link]()
+[link](https://github.com/ImSH715/Specific-Volume-Generator/blob/main/Poster/Contrast%20agent%20free%20regional%20ventilation%20imaging%20in%20CT%20and%20MRI%20-%20Poster.pptx.pdf)

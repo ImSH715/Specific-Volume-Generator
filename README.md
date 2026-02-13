@@ -18,6 +18,6 @@
     - Heatmap
     - Line maps to compare asthma, COPD and Healthy, lungs.
 
-## Extra Explanation
-For clear information please check this poster
+## Poster
+The following link directs to the poster that includes summary of the project
 [link](https://github.com/ImSH715/Specific-Volume-Generator/blob/main/Poster/Contrast%20agent%20free%20regional%20ventilation%20imaging%20in%20CT%20and%20MRI%20-%20Poster.pptx.pdf)

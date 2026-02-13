@@ -1,8 +1,15 @@
-Following repository includes works from the project.
-The project task was
-- Direct to the CT Image files
-- Find the specific gas volume based on the quadtree results [link](https://github.com/ImSH715/Quatree-Generator)
-- Find the specific gas volume of the CT Images
+# Specific Volume Generator
+## Tech Stack
+- CT Lung Image dataset
+- SimpleITK
+- Python
+- Numpy
+
+## Objectives
+- The project focuses to find the specific volume value to analyse the difference between status of lungs (asthma, COPD, healthy).
+- It directs to the CT Image files
+- It finds the specific gas volume based on the quadtree results [link](https://github.com/ImSH715/Quatree-Generator)
+- It find the specific gas volume of the CT Images
   - Create Visaulised Charts
     - Heatmap
     - Line map of comparing asthma, COPD and Healthy Lungs
